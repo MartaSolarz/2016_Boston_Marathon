@@ -5,7 +5,7 @@
 1. Data information
 2. Performed analysis
 3. Results of the carried out analysis
-4. Python module used
+4. Python modules used
 
 ## 1. Data information
 
@@ -41,7 +41,7 @@ Working with data consisted of several stages:
 
 ![wykres_2](https://user-images.githubusercontent.com/102785427/181914004-cba55d9e-2b9d-47fc-891e-25c5d3c73a59.png)
 
-## 4. Python module used
+## 4. Python modules used
 
 - ```datetime```
 - ```matplotlib.pyplot```
